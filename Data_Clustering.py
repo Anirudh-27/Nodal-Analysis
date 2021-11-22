@@ -1,9 +1,4 @@
 
-"""
-Created on Sat Jun 20 20:30:47 2020
-
-@author: aniru
-"""
 # Importing the libraries
 import numpy as np
 import matplotlib.pyplot as plt
